@@ -53,7 +53,6 @@ def palka():
     else:
         proigrish()
 
-
 def snake():
     if matrix[1][4] == 0 and matrix[1][5] == 0:
         matrix[1][4] = 30
